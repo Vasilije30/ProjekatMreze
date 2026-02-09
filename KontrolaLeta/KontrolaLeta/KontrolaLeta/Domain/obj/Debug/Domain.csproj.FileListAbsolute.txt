@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Domain\bin\Debug\Domain.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Domain\bin\Debug\Domain.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Domain\obj\Debug\Domain.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Domain\obj\Debug\Domain.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Domain\bin\Debug\Domain.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Domain\bin\Debug\Domain.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Domain\obj\Debug\Domain.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Domain\obj\Debug\Domain.pdb

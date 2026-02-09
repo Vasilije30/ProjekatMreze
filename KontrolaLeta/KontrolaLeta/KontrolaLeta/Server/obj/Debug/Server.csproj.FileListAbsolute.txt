@@ -1,0 +1,22 @@
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\bin\Debug\Server.exe.config
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\bin\Debug\Server.exe
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\bin\Debug\Server.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\bin\Debug\Domain.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\bin\Debug\Domain.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\obj\Debug\Server.exe
+C:\Users\Lenovo\OneDrive\Radna povrsina\mreze proj\mreze proj\Parking\Server\obj\Debug\Server.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\bin\Debug\Server.exe.config
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\bin\Debug\Server.exe
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\bin\Debug\Server.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\bin\Debug\Domain.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\bin\Debug\Domain.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\obj\Debug\Server.exe
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\obj\Debug\Server.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\Vasilije Mreze\KontrolaLeta\KontrolaLeta\KontrolaLeta\Server\obj\Debug\Server.csproj.CopyComplete
